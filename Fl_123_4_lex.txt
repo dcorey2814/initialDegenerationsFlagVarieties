@@ -1,0 +1,14 @@
+Q[p0e, p1e, p2e, p3e, p01e, p02e, p03e, p12e, p13e, p23e, p012e, p013e, p023e, p123e]
+
+{
+p12e*p3e - p13e*p2e + p23e*p1e, 
+p02e*p3e - p03e*p2e + p23e*p0e, 
+p01e*p3e - p03e*p1e + p13e*p0e, 
+p01e*p2e - p02e*p1e + p12e*p0e, 
+p12e*p03e - p02e*p13e + p01e*p23e, 
+p013e*p23e - p023e*p13e + p123e*p03e, 
+p012e*p3e - p013e*p2e + p023e*p1e - p123e*p0e, 
+p012e*p23e - p023e*p12e + p123e*p02e, 
+p012e*p13e - p013e*p12e + p123e*p01e, 
+p012e*p03e - p013e*p02e + p023e*p01e
+}
