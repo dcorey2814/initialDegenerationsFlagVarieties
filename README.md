@@ -1,6 +1,6 @@
 # initialDegenerationsFlagVarieties
 
-This repository contains the code used in the paper *Initial degenerations of flag varieties* by Daniel Corey and Jorge Alberto Olarte, <a href="https://arxiv.org/abs/2207.08094">arXiv:2207.08094</a>. We use <a href="https://github.com/oscar-system/Polymake.jl" >polymake</a> and <a href="https://github.com/oscar-system/Oscar.jl" >OSCAR</a>, and it works with version 0.10.0. 
+This repository contains the code used in the paper *Initial degenerations of flag varieties* by Daniel Corey and Jorge Alberto Olarte, <a href="https://arxiv.org/abs/2207.08094">arXiv:2207.08094</a>. We use <a href="https://github.com/oscar-system/Polymake.jl" >polymake</a> and <a href="https://github.com/oscar-system/Oscar.jl" >OSCAR</a>, and it works with version 0.10.1. 
 
 ```flagMatroids.ipynb``` is a jupyter notebook that generates all flag matroids of rank $(1,2,3)$ on $[4]$. 
 
